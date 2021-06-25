@@ -1,0 +1,101 @@
+.mainSchedule{
+	box-sizing: border-box;
+	width: 100%;
+	margin: 30px;
+	color: white;
+}
+
+.SampleSchedule{
+	box-sizing: border-box;
+	height: 200px;
+	width: 240px;
+	cursor: pointer;
+	padding: 30px;
+	background-color:#c3d2df;
+	margin: 10px 0 0 10px;
+}
+
+.image{
+	margin-top:-65px;
+	margin-left:-40px;
+}
+
+.schedule{
+	box-sizing: border-box;
+	height: 200px;
+	width: 280px;
+	padding: 30px;
+	background-color: #EFC5FE;
+	color: black;
+	margin: 10px 0 0 10px;
+}
+
+span{
+	font-size:18px;
+}
+
+.scheduler{
+	bottom: 10px;
+	cursor: pointer;
+	color: #307EFE;
+	margin: 30px;
+}
+
+.scheduleForm{
+	margin: 30px;
+	width: 20%;
+}
+
+.remove{
+	width:50px;
+	height:50px;
+	z-index:1;
+	position:absolute;
+	margin-left:200px;
+	margin-top:-20px;
+}
+
+.delete{
+	width:50px;
+	height:50px;
+}
+
+#hidden{
+	display: none;
+}
+
+form{
+	border: 2px solid black;
+	padding: 30px;
+}
+
+.label{
+	font-size: 16px;
+	margin-bottom: 10px;
+}
+
+.form{
+	outline: 0;
+	border-width: 0 0 3px;
+	border-color: black;
+	margin: 10px 0;
+}
+
+.submitButton{
+	height: 30px;
+	width: 100px;
+	text-align: center;
+	margin-left: 10px;
+	border: none;
+	cursor:pointer;
+	text-decoration: bold;
+	color: white;
+	border-radius:5px;
+	background-color: #FF3333;
+}
+
+a{
+	text-decoration:none;
+	color:#307EFE;
+
+}

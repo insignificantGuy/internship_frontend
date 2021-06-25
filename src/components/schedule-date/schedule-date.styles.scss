@@ -1,0 +1,32 @@
+.view{
+	width: 90%;
+	height: 30px;
+	margin: 30px;
+	display: flex;
+	padding: 5px;
+}
+
+.viewType{
+	height: 40px;
+	width: 100px;
+	margin: 0 10px;
+	background-color: #56F893;
+	color: white;
+	margin-bottom: 30px;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 40px; 
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+.next{
+	height:20px;
+	width:20px;
+	margin:23px 10px 0 10px;
+}
+
+.dateBar{
+	display:flex;
+	margin-left:30px;
+}
