@@ -11,11 +11,11 @@ The repository contains the frontend part of the website that was given to be de
 Apart from that, you can see and search for other teacher as well and see their schedule. You can also see schedule of a given week or month. 
 
 ### Tech Stack Used
-*HTML
-*CSS
-*JS
-*SASS
-*REACT.JS
+* HTML
+* CSS
+* JS
+* SASS
+* REACT.JS
 
 ### Additional Information
 The website is heavily infested with bugs and so one may inevitably encounter them while using this website. 
